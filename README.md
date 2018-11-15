@@ -14,4 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-I am editing this file
+I am editing this file. It didnt work the first time due to git not being installed on the jenkins server. Second time lucky
